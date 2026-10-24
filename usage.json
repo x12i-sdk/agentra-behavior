@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/agentra-behavior",
+  "packageVersion": "0.1.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/agentra-behavior",
+  "usageRepository": "https://github.com/x12i-sdk/agentra-behavior",
+  "sourceRepository": "https://github.com/x12i/agentra",
+  "sourceCommit": "772e50e64925e6359e42172d4dcf11d4aa795763",
+  "sourcePackageDirectory": "packages/behavior",
+  "example": {
+    "title": "Build a user activity profile from stored synthetic events",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T14:29:39.264209+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "8c4211c1c9933a7134ca5d56ae04e5ed225db83f4cd7338023842c49f1a760ef",
+    "manifestSha256": "997c460d32516e502f746f17ffe14a67ab253e4b0a9258418c8bf5e947fee16d"
+  },
+  "validationFiles": {
+    "src/index.mjs": "8c4211c1c9933a7134ca5d56ae04e5ed225db83f4cd7338023842c49f1a760ef"
+  }
+}
